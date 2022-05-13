@@ -1,0 +1,19 @@
+# Probot by https://github.com/zeke/semantic-pull-requests
+
+# Always validate the PR title, and ignore the commits
+titleOnly: true
+
+# By default types specified in commitizen/conventional-commit-types is used.
+# See: https://github.com/commitizen/conventional-commit-types/blob/v3.0.0/index.json
+types:
+  - feat      # new feature for the user, not a new feature for build script
+  - fix       # bug fix for the user, not a fix to a build script
+  - docs      # changes to the documentation
+  - style     # formatting, missing semi colons, etc; no production code change
+  - refactor  # refactoring production code, eg. renaming a variable
+  - perf      #
+  - test      # adding missing tests, refactoring tests; no production code change
+  - build     #
+  - ci        # To work on your CI/CD process
+  - chore     # updating grunt tasks etc; no production code change
+  - revert    #
