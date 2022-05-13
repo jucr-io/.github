@@ -12,7 +12,6 @@ repos:
         - >
           --args=--format json
           --no-color
-          -e aws-s3-enable-bucket-logging,aws-s3-specify-public-access-block
     - id: terraform_validate
 - repo: https://github.com/pre-commit/pre-commit-hooks
   rev: v4.2.0
