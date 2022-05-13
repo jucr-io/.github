@@ -1,7 +1,7 @@
 <img src="https://uploads-ssl.webflow.com/6127780862f49c42bf93addc/6238c2aa8fdf0b02e4898939_JUCR_Logo_Combined.svg" width="200" height="50"/>
 
 # JUCR's .github
-[![Deploy Stack](https://github.com/jucr-io/.github/actions/workflows/ci.yml/badge.svg)](https://github.com/jucr-io/.github/actions/workflows/ci.yml)
+[![Code Analysis](https://github.com/jucr-io/.github/actions/workflows/ci.yml/badge.svg)](https://github.com/jucr-io/.github/actions/workflows/ci.yml)
 
 # Overview
 
