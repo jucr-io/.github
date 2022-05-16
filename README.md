@@ -42,5 +42,5 @@ by configuring a repository's `.github/stale.yml` to contain the following:
 ```yaml
 _extends: .github
 ```
-## .gitignore 
+## .gitignore
 As default is set to a mix of VisualStudio and MacOS, but you may find other usefull settings [here](https://github.com/github/gitignore)
