@@ -1,9 +1,10 @@
 ---
-# Number of days of inactivity before an Issue or Pull Request becomes stale
+# Number of days of inactivity before an Issue or PR becomes stale
 daysUntilStale: 60
-# Number of days of inactivity before a stale Issue or Pull Request is closed
+# Number of days of inactivity before a stale Issue or PR is closed
 daysUntilClose: 14
-# Issues or Pull Requests with these labels will never be considered stale. Set to `[]` to disable
+# Issues or PR's with these labels will never be considered stale.
+# Set to `[]` to disable
 exemptLabels:
   - security
 # Label to use when marking as stale
@@ -13,10 +14,11 @@ markComment: >
   This issue has been automatically marked as stale because it has not had
   activity in the last 60 days. It will be closed if no further activity
   occurs in the next two weeks. Thank you for participating in the Datadog
-  open source community. If you need more time, or have any questions, let us know.
+  open source community. If you need more time, or have any questions,
+  let us know.
 # Comment to post when removing the stale label. Set to `false` to disable
 unmarkComment: false
-# Comment to post when closing a stale Issue or Pull Request. Set to `false` to disable
+# Comment to post when closing a stale Issue or PR. Set to `false` to disable
 closeComment: false
 # Limit to only `issues` or `pulls`
 only: pulls
