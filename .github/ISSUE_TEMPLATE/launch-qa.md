@@ -1,4 +1,4 @@
-### PORT THIS INTO A K8S DEPLOYED SERVICE ###
+<!-- ### PORT THIS INTO A K8S DEPLOYED SERVICE ### -->
 ---
 name: Launch - QA
 about: Checklist of QA related tasks to complete for a site launch.
@@ -17,7 +17,7 @@ assignees: ''
 - [ ] Determine who is testing and what they are testing.
 - [ ] Determine how testing results are tracked.
 - [ ] Determine how the impacts of QA bugs will affect the launch date.
-- [ ] Reference the [JUCR's testing plan]().
+- [ ] Reference the [JUCR's testing plan](https://github.com/jucr-io/engineering-handbook).
 - [ ] Document supported browsers.
 - [ ] Include expected functionality.
 - [ ] Document A11y requirements.

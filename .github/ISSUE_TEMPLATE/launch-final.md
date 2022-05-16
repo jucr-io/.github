@@ -1,4 +1,5 @@
-### PORT THIS INTO A K8S DEPLOYED SERVICE ###
+<!-- ### PORT THIS INTO A K8S DEPLOYED SERVICE ### -->
+
 ---
 name: Launch - Final
 about: Final checklist of tasks to complete before a site launch.
@@ -14,9 +15,11 @@ assignees: ''
 <!-- any line-item, please update this description to include references to them. -->
 
 ## Migration
+
 - [ ] Confirm that the content migration is complete.
 
 ## Account Management
+
 - [ ] Set expectations for post-launch support.
 - [ ] Determine what our next engagement will look like.
 - [ ] How long will the team continue working under the current engagement after launch?
@@ -24,12 +27,14 @@ assignees: ''
 - [ ] What PTO or resourcing shifts does the client need to be aware of?
 
 ## General
+
 - [ ] Validate that initial QA is complete.
 - [ ] Validate that all content has been entered/updated.
 - [ ] Set expectations with the client about what will happen on launch day.
 - [ ] Determine if the launch date is still feasible given the results of QA.
 
 ## Project Management
+
 - [ ] Validate that all development work is complete and notify the client.
 - [ ] Determine and communicate the expectations we have of the client prior to launch.
 - [ ] Validate that all parties are clear on what will and will not be going live at launch.
@@ -37,6 +42,7 @@ assignees: ''
 - [ ] Document process for denoting launch blocker bugs.
 
 ## Launch Prep
+
 - [ ] Create a roll-back plan.
 - [ ] Notify the devops team and confirm they understand what needs to occur.
 - [ ] Create an ordered checklist and timeline.
@@ -54,6 +60,7 @@ assignees: ''
 - [ ] Implement a code freeze state and communicate this with the team.
 
 ## Launch Day
+
 - [ ] Let the client know when the launch process begins.
 - [ ] Disable HTTP Authorization if applicable.
 - [ ] Update DNS entries.

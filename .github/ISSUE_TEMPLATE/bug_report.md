@@ -17,6 +17,7 @@ assignees: ''
 
 <!-- Steps to reproduce the bug: -->
 ### Steps
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -24,6 +25,7 @@ assignees: ''
 
 <!-- The context in which this bug is replicable: -->
 ### Environment
+
 - Operating system and version: <!-- Example: macOS 12.2.1, iOS 15, Windows 11, Android 12, etc. -->
 - Browser and version: <!-- Example: Chrome (Desktop) 99.0.4844.51, iOS 11.2 Safari, etc. -->
 - Device: <!-- Example: Desktop PC, Laptop, Surface Pro, iPhone X, etc. -->

@@ -1,4 +1,4 @@
-### PORT THIS INTO A K8S DEPLOYED SERVICE ###
+<!-- ### PORT THIS INTO A K8S DEPLOYED SERVICE ### -->
 ---
 name: Launch - Planning
 about: Checklist of initial planning related tasks to complete for a site launch.

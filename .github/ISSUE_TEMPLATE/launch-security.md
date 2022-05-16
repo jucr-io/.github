@@ -1,4 +1,4 @@
-### PORT THIS INTO A K8S DEPLOYED SERVICE ###
+<!-- ### PORT THIS INTO A K8S DEPLOYED SERVICE ### -->
 ---
 name: Launch - Security
 about: Checklist of security related tasks to complete for a site launch.

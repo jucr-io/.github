@@ -1,4 +1,4 @@
-### PORT THIS INTO A TERRAFORM DEPLOYED SERVICE ###
+<!-- ### PORT THIS INTO A TERRAFORM DEPLOYED SERVICE ### -->
 ---
 name: Launch - Hosting
 about: Checklist of hosting related tasks to complete for a site launch.

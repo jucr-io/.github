@@ -1,4 +1,4 @@
-### PORT THIS INTO A K8S DEPLOYED SERVICE ###
+<!-- ### PORT THIS INTO A K8S DEPLOYED SERVICE ### -->
 ---
 name: Launch - Post Launch
 about: Checklist of tasks to complete after a site launch.
@@ -14,6 +14,7 @@ assignees: ''
 <!-- any line-item, please update this description to include references to them. -->
 
 ## Development
+
 - [ ] Monitor site log for errors.
 - [ ] Verify caching is working as intended.
 - [ ] Verify analytics is reporting as expected.
@@ -24,6 +25,7 @@ assignees: ''
 - [ ] Disable migration related modules and source database connectivity as applicable.
 
 ## Ongoing Process
+
 - [ ] Update automated or manual tests to point to the new production domain.
 - [ ] Determine if the git branching strategy, merging rules, or any development workflows should be adjusted.
 - [ ] Update QA environments to pull databases from the new production site.
