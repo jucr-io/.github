@@ -1,6 +1,7 @@
-<img src="https://uploads-ssl.webflow.com/6127780862f49c42bf93addc/6238c2aa8fdf0b02e4898939_JUCR_Logo_Combined.svg" width="200" height="50"/>
+![JUCR Logo](https://uploads-ssl.webflow.com/6127780862f49c42bf93addc/6238c2aa8fdf0b02e4898939_JUCR_Logo_Combined.svg) <!-- .element height="50%" width="50%" -->
 
 # JUCR's .github
+
 [![Code Analysis](https://github.com/jucr-io/.github/actions/workflows/ci.yml/badge.svg)](https://github.com/jucr-io/.github/actions/workflows/ci.yml)
 
 # Overview
@@ -17,6 +18,7 @@ The approach was taken from=
 And we will keep expanding on this repositories contents!
 
 ## Semantic bot Configurations
+
 The default [Semantic Pull Requests](https://github.com/zeke/semantic-pull-requests)
 [configuration](.github/semantic.yml) included in this repository can be enabled
 by configuring a repository's `.github/stale.yml` to contain the following:
@@ -34,7 +36,9 @@ types:
   - chore
   - revert
 ```
+
 ## Stalebot Configuration
+
 The default [StaleBot](https://github.com/probot/stale)
 [configuration](.github/stale.yml) included in this repository can be enabled
 by configuring a repository's `.github/stale.yml` to contain the following:
@@ -42,5 +46,7 @@ by configuring a repository's `.github/stale.yml` to contain the following:
 ```yaml
 _extends: .github
 ```
+
 ## .gitignore
+
 As default is set to a mix of VisualStudio and MacOS, but you may find other usefull settings [here](https://github.com/github/gitignore)
