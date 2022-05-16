@@ -1,16 +1,17 @@
 ## Description
+
 ### What does this PR do?
 
 A brief description of the change being made with this pull request.
 
-
 ### Motivation and Context
+
 #### Trigger questions
+
 - Why is this change required?
 - What problem does it solve?
 - What inspired you to submit this pull request?
 - If it fixes an open issue, please link to the issue here.
-
 
 ### Review checklist
 
@@ -23,4 +24,4 @@ A brief description of the change being made with this pull request.
 
 Anything else we should know when reviewing?
 
-## Screenshots (if appropriate):
+## Screenshots (if appropriate)

@@ -1,5 +1,3 @@
-<!-- ### PORT THIS INTO A K8S DEPLOYED SERVICE ### -->
-
 ---
 name: Launch - Final
 about: Final checklist of tasks to complete before a site launch.
@@ -8,6 +6,7 @@ labels: ''
 assignees: ''
 
 ---
+<!-- ### PORT THIS INTO A K8S DEPLOYED SERVICE ### -->
 
 <!-- Please check off line-items as they are completed and leave notes if necessary. -->
 <!-- If an item is not relevant to this project, [strike it out](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text) -->
