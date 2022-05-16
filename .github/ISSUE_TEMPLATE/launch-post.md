@@ -13,7 +13,7 @@ assignees: ''
 <!-- (e.g. `~~Not relevant item~~`) or remove it. If child tickets are created for -->
 <!-- any line-item, please update this description to include references to them. -->
 
-## Development
+# Development
 
 - [ ] Monitor site log for errors.
 - [ ] Verify caching is working as intended.
