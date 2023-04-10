@@ -13,9 +13,11 @@ assignees: ''
 <!-- The sections suggested are intended to make it easy to create a -->
 <!-- descriptive issue Change as needed! -->
 
-## Proposed Solution
+```[tasklist]
+### Tasks
+- [ ] Fix issue
 
-<!-- What do you think should happen? -->
+```
 
 ## Alternatives Considered
 
