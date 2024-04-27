@@ -10,8 +10,9 @@ assignees: ''
 ## Description
 <!-- A clear and concise description of this epic. -->
 
-## Tasks
 <!-- Reference issues that are encompassed by this epic. -->
+```[tasklist]
+### Tasks
+- [ ] Task included in epic
 
-- [ ]
-- [ ]
+```
