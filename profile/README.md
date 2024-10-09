@@ -5,12 +5,12 @@
 <br/>
 <p align="left">
   <a href="https://jucr-io.slack.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="Slack Community" width="160" height="41"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="Slack Community" width="80" height="20"/>
   </a>
 </p>
 <!-- markdownlint-restore -->
 
-[Last Update](https://img.shields.io/github/last-commit/jucr-io/.github/main)
+![Last Update](https://img.shields.io/github/last-commit/jucr-io/.github/main)
 [![Code Analysis](https://github.com/jucr-io/.github/actions/workflows/ci.yml/badge.svg)](https://github.com/jucr-io/.github/actions/workflows/ci.yml)
 
 # We are JUCR ⚡️

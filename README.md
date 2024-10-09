@@ -5,12 +5,12 @@
 <br/>
 <p align="left">
   <a href="https://jucr-io.slack.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="Slack Community" width="160" height="41"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="Slack Community" width="80" height="20"/>
   </a>
 </p>
 <!-- markdownlint-restore -->
 
-[Last Update](https://img.shields.io/github/last-commit/jucr-io/.github/main)
+![Last Update](https://img.shields.io/github/last-commit/jucr-io/.github/main)
 [![Code Analysis](https://github.com/jucr-io/.github/actions/workflows/ci.yml/badge.svg)](https://github.com/jucr-io/.github/actions/workflows/ci.yml)
 
 # Overview
@@ -22,7 +22,7 @@ organization.
 **This repository is public**. It needs to be public for other repositories to
 be able to leverage the templates that it provides.
 
-The approach was taken from=
+The approach was taken from 
 [this help page](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file).
 And we will keep expanding on this repositories contents!
 
