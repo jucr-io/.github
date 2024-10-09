@@ -8,23 +8,23 @@ on:  # yamllint disable-line rule:truthy
   pull_request:
 
 jobs:
-  markdownlint:
+  markdown-lint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.2.1
       - name: Lint markdown files
-        uses: avto-dev/markdown-lint@v1
+        uses: avto-dev/markdown-lint@v1.5.0
         with:
-          args: 'README.md .github/ docs/'
+          args: 'README.md CHANGELOG.md PULL_REQUEST_TEMPLATE.md .github/ docs/ profile/'
           fix: true
 
   yaml-lint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.2.1
       - name: Yaml Lint
-        uses: ibiqlik/action-yamllint@v3
+        uses: ibiqlik/action-yamllint@v3.1.1
         with:
           config_file: .yamllint.yml
