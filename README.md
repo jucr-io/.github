@@ -1,6 +1,17 @@
-![JUCR Logo](https://uploads-ssl.webflow.com/6127780862f49c42bf93addc/6238c2aa8fdf0b02e4898939_JUCR_Logo_Combined.svg) <!-- .element height="50%" width="50%" -->
-
-# JUCR's .github
+<!-- markdownlint-disable -->
+  <a href="https://jucr.com/">
+    <img src="https://github.com/jucr-io/.github/blob/adding-public-info/.github/banner/image_banner.png?raw=true" alt="Project Banner"/>
+  </a>
+<br/>
+<p align="right">
+  <a href="https://github.com/jucr-io/.github/commits/main/">
+    <img src="https://img.shields.io/github/last-commit/jucr-io/.github/main?style=for-the-badge" alt="Last Update"/>
+  </a>
+  <a href="https://jucr-io.slack.com">
+    <img src="https://jucr-io.slack.com/for-the-badge.svg" alt="Slack Community"/>
+  </a>
+</p>
+<!-- markdownlint-restore -->
 
 [![Code Analysis](https://github.com/jucr-io/.github/actions/workflows/ci.yml/badge.svg)](https://github.com/jucr-io/.github/actions/workflows/ci.yml)
 

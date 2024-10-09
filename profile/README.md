@@ -1,3 +1,18 @@
+<!-- markdownlint-disable -->
+  <a href="https://jucr.com/">
+    <img src="https://github.com/jucr-io/.github/blob/adding-public-info/.github/banner/image_banner.png?raw=true" alt="Project Banner"/>
+  </a>
+<br/>
+<p align="right">
+  <a href="https://github.com/jucr-io/.github/commits/main/">
+    <img src="https://img.shields.io/github/last-commit/jucr-io/.github/main?style=for-the-badge" alt="Last Update"/>
+  </a>
+  <a href="https://jucr-io.slack.com">
+    <img src="https://jucr-io.slack.com/for-the-badge.svg" alt="Slack Community"/>
+  </a>
+</p>
+<!-- markdownlint-restore -->
+
 # We are JUCR ⚡️
 
 JUCR is on a mission to accelerate the global adoption of electric vehicles by providing accessible and user-friendly charging solutions. We are dedicated to creating the most exciting and seamless experience for every electric car driver, enabling them to fully embrace the freedom and possibilities of e-mobility without any limitations.
