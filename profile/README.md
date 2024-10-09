@@ -13,21 +13,21 @@ We believe in using the right tool for each specific problem, which is why we em
 
 - **Rust**: Utilized extensively in our embedded systems and backend services, Rust offers memory safety and high performance. Its zero-cost abstractions and fearless concurrency make it ideal for systems programming where reliability is paramount.
   
-- **TypeScript**: Used in our backend development, TypeScript brings static typing to JavaScript, enhancing code quality, maintainability, and scalability. It helps us catch errors early and build robust APIs and services. Since many years, we're maintaining our own framework to eliminate the hell of dependencies you have usually in this ecosystem.
+- **TypeScript**: Used in our backend development, TypeScript brings static typing to JavaScript, enhancing code quality, maintainability, and scalability. It helps us catch errors early and build robust APIs and services. For many years, we've been maintaining our own framework to reduce the hell of the dependencies usually associated to this ecosystem.
 
 - **HCL**: Employed for infrastructure as code (IaC) with tools like Terraform, HCL allows us to define and provision our infrastructure in a declarative way, ensuring consistency and repeatability across environments.
 
-- **Swift**: For our iOS frontend development, Swift provides a modern, fast, and safe programming language. It enables us to build high-performance, user-friendly mobile applications that offer a native experience on Apple devices.
+- **Swift**: For our iOS frontend development Swift provides a modern, fast, and safe programming language. It enables us to build high-performance, user-friendly mobile applications with a native experience on Apple devices.
 
 - **Kotlin**: Used in our Android frontend development, Kotlin offers concise syntax and interoperability with Java. It allows us to create powerful and expressive applications while reducing boilerplate code.
 
-- **React**: Leveraged in our web frontend development, React enables us to build dynamic and responsive user interfaces. Its component-based architecture promotes reusability and efficient rendering, enhancing user engagement and experience.
+- **React**: Leveraged in our web frontend development, React enables us to build dynamic and responsive user interfaces. It's component-based architecture promotes reusability and efficient rendering, enhancing user engagement and experience.
 
 ## Our Toolchain & Architecture
 
 Our platform is architected using a microservices approach, consisting of over **50 microservices** that communicate in a fully decoupled, event-driven manner. This architecture allows for:
 
-- **Scalability**: Services can be scaled independently based on demand, ensuring optimal performance.
+- **Scalability**: Services scale independently based on demand, ensuring optimal performance.
 - **Resilience**: The decoupled nature reduces the impact of failures, enhancing system reliability.
 - **Flexibility**: Teams can develop, deploy, and update services independently, accelerating innovation.
 
@@ -37,9 +37,9 @@ The toolchain that powers our platform includes, but is not limited to:
 
 - **GraphQL**: We use GraphQL to build efficient and flexible APIs. It allows clients to request exactly the data they need, reducing over-fetching and under-fetching of data, which optimizes network usage and improves performance.
 
-- **Terraform**: With Terraform's infrastructure as code capabilities, we can provision and manage our infrastructure resources across various cloud providers consistently and automatically. It enhances our ability to deploy scalable and reliable infrastructure rapidly.
+- **Terraform**: With Terraform as our choice for infrastructure as code, we provision and manage our infrastructure resources across various cloud providers consistently and automatically. It enhances our ability to deploy scalable and reliable infrastructure rapidly.
 
-- **DynamoDB**: Amazon DynamoDB offers a fast and flexible NoSQL database service for applications that need consistent, single-digit millisecond latency at any scale. It's ideal for handling high-throughput workloads and ensuring low-latency responses.
+- **DynamoDB**: AWS DynamoDB offers a fast and flexible NoSQL database service for applications that need consistent, single-digit millisecond latency at any scale. It's ideal for handling high-throughput workloads and ensuring low-latency responses.
 
 - **MongoDB**: As a NoSQL database, MongoDB provides flexibility in handling unstructured data. It supports our need for scalable, high-performance data storage, especially for applications that require rapid development cycles.
 
@@ -55,7 +55,7 @@ In addition to our toolchain, our architecture is heavily influenced by the foll
 
 Our engineering culture is centered around best practices and methodologies that enhance productivity, collaboration, and code quality.
 
-- **Trunk-Based Development**: We adopt trunk-based development to streamline our integration process. This practice involves developers committing small, frequent changes and deploying those directly out of a PR into one of our three environments, minimizing merge conflicts and facilitating continuous integration and delivery. It accelerates the delivery of features and fixes, allowing us to respond quickly to user needs and market changes.
+- **Trunk-Based Development**: We adopt trunk-based development to streamline our integration process. This practice involves developers committing small, frequent changes and deploying those directly out of a Pull Request in a GitOps way into lower environments and production, minimizing merge conflicts and facilitating continuous integration and delivery. It accelerates the delivery of features and fixes, allowing us to respond quickly to user needs and market changes.
 
 - **Functional Programming**: Particularly on the backend, we leverage functional programming paradigms to write clean, modular, and testable code. Functional programming promotes immutability and pure functions, reducing side effects and making our codebase more predictable and easier to maintain. This approach enhances the reliability and scalability of our systems.
 
