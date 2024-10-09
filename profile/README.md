@@ -4,11 +4,8 @@
   </a>
 <br/>
 <p align="left">
-  <a href="https://jucr-io.slack.com" style="color:black;">
-  <figure>
+  <a href="https://jucr-io.slack.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="Slack Community" width="80" height="20"/>
-      <figcaption>community</figcaption>
-    </figure>
   </a>
 </p>
 <!-- markdownlint-restore -->
