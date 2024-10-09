@@ -19,7 +19,7 @@ JUCR is on a mission to accelerate the global adoption of electric vehicles by p
 
 Based in the vibrant city of **Berlin**, our company thrives in a hub of innovation and culture. Our diverse team consists of brilliant minds from over **20 different nationalities**, bringing together a rich variety of cultures, ideas, and expertise. This diversity fuels our creativity and allows us to approach challenges from unique perspectives, fostering innovation at every level of the organization.
 
-At JUCR, we take pride in building everything in-house. This means we have full control over our products and services, ensuring the highest quality and security standards. From designing and manufacturing the PCBs that power our charging stations to developing the firmware for microcontrollers, crafting our entire backend platform, and creating intuitive mobile applications, we handle it all. 
+At JUCR, we take pride in building everything in-house. This means we have full control over our products and services, ensuring the highest quality and security standards. From designing and manufacturing the PCBs that power our charging stations to developing the firmware for microcontrollers, crafting our entire backend platform, and creating intuitive mobile applications, we handle it all.
 This vertical integration allows us to optimize every aspect of our technology stack, providing a seamless and cohesive experience for our users.
 
 ## Languages We Use
@@ -27,7 +27,7 @@ This vertical integration allows us to optimize every aspect of our technology s
 We believe in using the right tool for each specific problem, which is why we embrace a variety of programming languages and technologies. Our multilingual approach allows us to leverage the strengths of each language, resulting in efficient and effective solutions.
 
 - **Rust**: Utilized extensively in our embedded systems and backend services, Rust offers memory safety and high performance. Its zero-cost abstractions and fearless concurrency make it ideal for systems programming where reliability is paramount.
-  
+
 - **TypeScript**: Used in our backend development, TypeScript brings static typing to JavaScript, enhancing code quality, maintainability, and scalability. It helps us catch errors early and build robust APIs and services. For many years, we've been maintaining our own framework to reduce the hell of the dependencies usually associated to this ecosystem.
 
 - **HCL**: Employed for infrastructure as code (IaC) with tools like Terraform, HCL allows us to define and provision our infrastructure in a declarative way, ensuring consistency and repeatability across environments.
@@ -94,7 +94,7 @@ The patterns and principles presented in **lightning-ts** and **lightning-rs** a
 
 We also leverage **reusable GitHub Actions workflows** to streamline our continuous integration and continuous delivery (CI/CD) pipelines. By creating modular and reusable workflows, we reduce duplication and enforce consistent standards across projects. This approach not only accelerates the development cycle but also ensures that all projects benefit from shared best practices, such as automated testing, linting, and security checks.
 
-While we provide these frameworks and workflows as recommendations rather than strict rules, we encourage our teams to consider them when developing production applications. Each project comes with unique requirements, so any pattern or principle can be adjusted or omitted as necessary to best fit the project's context. 
+While we provide these frameworks and workflows as recommendations rather than strict rules, we encourage our teams to consider them when developing production applications. Each project comes with unique requirements, so any pattern or principle can be adjusted or omitted as necessary to best fit the project's context.
 
 By leveraging the recommendations in **lightning-ts**, **lightning-rs**, and our reusable GitHub Actions workflows, we aim to achieve several core benefits:
 
