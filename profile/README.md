@@ -118,4 +118,4 @@ We welcome contributions from the community. Whether you're interested in collab
 
 ## Join Our Team
 
-If you're passionate about e-mobility, innovative technologies, and making a positive impact on the environment, consider joining our team. We offer exciting career opportunities in a dynamic and inclusive environment. Visit our [careers page](https://jucr-gmbh.jobs.personio.de) for current openings.
+If you're passionate about e-mobility, innovative technologies, and making a positive impact on the environment, consider joining our team. We offer exciting career opportunities in a dynamic and inclusive environment. Visit our [careers page](https://career.jucr.com) for current openings.
