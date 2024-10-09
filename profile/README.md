@@ -69,6 +69,31 @@ Our engineering culture is centered around best practices and methodologies that
 
 - **Multidisciplinary Teams**: We believe that the best solutions emerge from the collaboration of diverse skill sets and perspectives. Our teams are multidisciplinary, bringing together experts from engineering, design, product and all other fields relevant for a certain project. This cross-functional approach fosters innovation by combining technical expertise with user-centric design and strategic insights. It ensures that all aspects of a problem are considered, leading to holistic and effective solutions. By working collaboratively, we can iterate quickly, learn from each other, and deliver products that truly meet the needs of our users.
 
+### Our Approach to Development
+
+At JUCR, we believe in a structured and framework-based approach to software development, which enhances the maturity of our codebase and aims to create a seamless development experience for our engineers. This philosophy is embodied in our projects like **lightning-ts** and **lightning-rs**, collections of concepts that align with our vision of effective software architecture in TypeScript and Rust, respectively.
+
+**lightning-ts** and **lightning-rs** provide guiding frameworks with recommendations on how to build and architect high-quality applications. They include techniques, best practices, architectural patterns, and guidelines sourced from various proven methodologies, all tailored to meet our specific needs. The core emphasis of these projects is to elevate our development processes by offering a comprehensive guide for our engineers.
+
+The patterns and principles presented in **lightning-ts** and **lightning-rs** are framework-agnostic, ensuring that our core packages are not tied to any specific technologies. This flexibility allows teams to adopt these recommendations without being constrained by implementation details, promoting a wider adoption across different projects within JUCR.
+
+We also leverage **reusable GitHub Actions workflows** to streamline our continuous integration and continuous delivery (CI/CD) pipelines. By creating modular and reusable workflows, we reduce duplication and enforce consistent standards across projects. This approach not only accelerates the development cycle but also ensures that all projects benefit from shared best practices, such as automated testing, linting, and security checks.
+
+While we provide these frameworks and workflows as recommendations rather than strict rules, we encourage our teams to consider them when developing production applications. Each project comes with unique requirements, so any pattern or principle can be adjusted or omitted as necessary to best fit the project's context. 
+
+By leveraging the recommendations in **lightning-ts**, **lightning-rs**, and our reusable GitHub Actions workflows, we aim to achieve several core benefits:
+
+- **Clean Architecture**: A well-defined structure facilitates understanding and navigation of the codebase, making it easier for new team members to onboard and contribute.
+
+- **Easy Maintenance**: Following established patterns leads to more maintainable code, reducing technical debt and allowing for smoother updates and changes over time.
+
+- **Seamless Extension**: The architecture is designed to support extensibility, enabling teams to add new features and functionalities without disrupting existing systems.
+
+- **Improved Automation**: Reusable workflows for GitHub Actions ensure that processes like CI/CD are automated and standardized, reducing manual errors and increasing development velocity.
+
+- **Low Leadtime**: Our CI/CD and review process allow us to push a PR to production in 7 minutes.
+
+
 ## Our Commitment to Quality and Innovation
 
 At JUCR, we are committed to continuous improvement and innovation. We invest in research and development to stay at the forefront of technology and e-mobility solutions. Our team regularly participates in industry conferences, workshops, and training sessions to expand their skills and knowledge.
