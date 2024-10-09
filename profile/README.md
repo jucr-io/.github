@@ -33,6 +33,8 @@ Our platform is architected using a microservices approach, consisting of over *
 
 The toolchain that powers our platform includes, but is not limited to:
 
+- **Kubernetes (EKS)**: We utilize Amazon EKS to orchestrate our containerized applications, enabling us to manage and scale our microservices efficiently in a cloud-native environment. Kubernetes provides automated deployment, scaling, and management of containerized applications, ensuring high availability and resilience.
+
 - **Kafka**: As a distributed streaming platform, Kafka enables us to handle real-time data feeds with high throughput and low latency. It's the backbone of our event-driven architecture, facilitating seamless communication between services.
 
 - **GraphQL**: We use GraphQL to build efficient and flexible APIs. It allows clients to request exactly the data they need, reducing over-fetching and under-fetching of data, which optimizes network usage and improves performance.
@@ -42,6 +44,12 @@ The toolchain that powers our platform includes, but is not limited to:
 - **DynamoDB**: AWS DynamoDB offers a fast and flexible NoSQL database service for applications that need consistent, single-digit millisecond latency at any scale. It's ideal for handling high-throughput workloads and ensuring low-latency responses.
 
 - **MongoDB**: As a NoSQL database, MongoDB provides flexibility in handling unstructured data. It supports our need for scalable, high-performance data storage, especially for applications that require rapid development cycles.
+
+- **ELK Stack**: We leverage the ELK stack (Elasticsearch, Logstash, and Kibana) for centralized logging and monitoring. We primarily use Elasticsearch for performative queries, enabling us to quickly search and analyze large volumes of data. This setup improves our ability to troubleshoot and maintain system performance.
+
+- **Apache Flink**: Flink is used for real-time stream processing, enabling us to perform complex event processing and analytics on data streams with low latency and high throughput. This allows us to make informed decisions based on real-time insights.
+
+- **Datadog**: For observability and monitoring, we utilize Datadog to track application performance, monitor infrastructure health, and gain insights into user behavior. Datadog provides powerful analytics and visualization tools, allowing us to ensure the reliability and efficiency of our services.
 
 In addition to our toolchain, our architecture is heavily influenced by the following principles:
 
