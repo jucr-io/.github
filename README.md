@@ -4,15 +4,13 @@
   </a>
 <br/>
 <p align="right">
-  <a href="https://github.com/jucr-io/.github/commits/main/">
-    <img src="https://img.shields.io/github/last-commit/jucr-io/.github/main?style=for-the-badge" alt="Last Update"/>
-  </a>
   <a href="https://jucr-io.slack.com">
-    <img src="https://jucr-io.slack.com/for-the-badge.svg" alt="Slack Community"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="Slack Community"/>
   </a>
 </p>
 <!-- markdownlint-restore -->
 
+[![Last Update](https://img.shields.io/github/last-commit/jucr-io/.github/main)]
 [![Code Analysis](https://github.com/jucr-io/.github/actions/workflows/ci.yml/badge.svg)](https://github.com/jucr-io/.github/actions/workflows/ci.yml)
 
 # Overview
