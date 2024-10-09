@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
   <a href="https://jucr.com/">
-    <img src="https://github.com/jucr-io/.github/blob/adding-public-info/banner/image_banner.png?raw=true" alt="Project Banner"/>
+    <img src="https://github.com/jucr-io/.github/blob/main/banner/image_banner.png?raw=true" alt="Project Banner"/>
   </a>
 <br/>
 <p align="left">
