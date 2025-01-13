@@ -1,17 +1,7 @@
-<!-- markdownlint-disable -->
-  <a href="https://jucr.com/">
-    <img src="https://github.com/jucr-io/.github/blob/main/banner/image_banner.png?raw=true" alt="Project Banner"/>
-  </a>
+<a href="https://jucr.com/">
+  <img src="https://github.com/jucr-io/.github/blob/main/banner/image_banner.png?raw=true" alt="Project Banner"/>
+</a>
 <br/>
-<p align="left">
-  <a href="https://jucr-io.slack.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="Slack Community" width="80" height="20"/>
-  </a>
-</p>
-<!-- markdownlint-restore -->
-
-![Last Update](https://img.shields.io/github/last-commit/jucr-io/.github/main)
-[![Code Analysis](https://github.com/jucr-io/.github/actions/workflows/ci.yml/badge.svg)](https://github.com/jucr-io/.github/actions/workflows/ci.yml)
 
 # We are JUCR ⚡️
 
