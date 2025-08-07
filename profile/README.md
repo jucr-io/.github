@@ -105,22 +105,6 @@ At JUCR, we are committed to continuous improvement and innovation. We invest in
 
 We also prioritize security and compliance, implementing robust security measures and adhering to industry standards and regulations to protect our users and data.
 
-# Open Source at JUCR
-
-We are avid supporters of the open-source community. JUCR extensively utilizes open-source libraries and tools, which are integral to our technology stack. In the spirit of giving back, we actively contribute to open-source projects and encourage our engineers to dedicate a portion of their work time to contribute to these projects. This not only helps improve the tools we rely on but also fosters innovation and collaboration within the community.
-
-Our commitment to open source is reflected in several projects we have publicly launched:
-
-- **[Pathfinder](https://github.com/jucr-io/pathfinder)**: Pathfinder is a Kubernetes-native relay that bridges an asynchronous message broker like Apache Kafka with the Apollo Router. It includes adapters for Kafka, Redis, and Apollo, and supports multiple serialization and deserialization formats such as Protobuf or JSON Schema, optionally even with connection to an external schema registry. Pathfinder simplifies the process of integrating event-driven architectures with GraphQL APIs, enhancing scalability and performance. It allows developers to build responsive applications that can handle real-time data streams efficiently.
-
-- **[Firmware Controller](https://github.com/jucr-io/firmware-controller)**: This procedural macro simplifies the decoupling of interactions between components in a `no_std` environment, which is crucial for embedded systems programming where standard libraries are not available. Firmware Controller enables developers to write more modular and maintainable code by abstracting complex patterns and reducing boilerplate. It aids in building robust firmware for microcontrollers, enhancing the reliability of embedded systems.
-
-- **[Modem Kick](https://github.com/jucr-io/modem-kick)**: Modem Kick is a systemd service that listens to ModemManager for registration state changes. It performs the necessary power operations to wake up a modem when the registration state returns back to normal. This tool is essential for maintaining reliable connectivity in devices that rely on modem communication, such as IoT devices and remote sensors. It ensures they can recover from network disruptions automatically, reducing downtime and maintenance efforts.
-
-## Get Involved
-
-We welcome contributions from the community. Whether you're interested in collaborating on our open-source projects, have ideas for new features, or want to report issues, we encourage you to get involved. Check out our repositories on GitHub, and feel free to reach out to us through the provided channels.
-
 ## Join Our Team
 
 If you're passionate about e-mobility, innovative technologies, and making a positive impact on the environment, consider joining our team. We offer exciting career opportunities in a dynamic and inclusive environment. Visit our [careers page](https://career.jucr.com) for current openings.
